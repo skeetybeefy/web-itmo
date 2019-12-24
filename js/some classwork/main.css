@@ -1,0 +1,11 @@
+body, .button {
+    font-family: "Segoe UI";
+}
+.mainContainer {
+    min-height: 200px;
+    background: violet;
+}
+.footer {
+    height: 100px;
+    background: brown;
+}

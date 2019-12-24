@@ -1,0 +1,25 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.head-img {
+    display: block;
+    margin-bottom: 10px;
+}
+form {
+    width: 300px;
+    border: 1px black solid;
+    margin-bottom: 10px;
+}
+input {
+    display: block;
+}
+button {
+    margin: 5px 0;
+    display: block;
+    border: none;
+    height: 40px;
+    border-radius: 10px;
+}
+button:hover {
+    background-color: rgb(161, 139, 221);
+}
